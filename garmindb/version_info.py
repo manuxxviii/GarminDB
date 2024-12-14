@@ -10,6 +10,8 @@ dev_python_required = (3, 9, 0)
 python_tested = (3, 11, 4)
 version_info = (3, 6, 3)
 prerelease = True
+version_info = (3, 6, 2)
+prerelease = False
 
 
 def version_string():
